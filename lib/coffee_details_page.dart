@@ -1,8 +1,8 @@
 // ignore: depend_on_referenced_packages
 import 'package:blurrycontainer/blurrycontainer.dart';
 import 'package:flutter/material.dart';
-import 'package:raisya_coffe/selection.dart';
-import 'package:raisya_coffe/service.dart';
+import 'selection.dart';
+import 'service.dart';
 // ignore: depend_on_referenced_packages
 import 'package:flutter_svg/flutter_svg.dart';
 

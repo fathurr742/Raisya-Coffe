@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:raisya_coffe/coffee_details_page.dart';
+import 'coffee_details_page.dart';
 
 // ignore: must_be_immutable
 class SpecialCoffeeCard extends StatelessWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:raisya_coffe/home_screen.dart';
-import 'package:raisya_coffe/login.dart';
+import 'home_screen.dart';
+import 'login.dart';
 // ignore: depend_on_referenced_packages
 import 'package:firebase_core/firebase_core.dart';
 

@@ -1,7 +1,7 @@
 // ignore: depend_on_referenced_packages
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:raisya_coffe/login.dart';
+import 'login.dart';
 
 class RegisterPage extends StatefulWidget {
   const RegisterPage({super.key});

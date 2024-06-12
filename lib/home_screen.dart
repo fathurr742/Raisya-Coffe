@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:raisya_coffe/checkoutpage.dart';
-import 'package:raisya_coffe/coffee_card.dart';
-import 'package:raisya_coffe/special_coffee_card.dart';
+import 'checkoutpage.dart';
+import 'coffee_card.dart';
+import 'special_coffee_card.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

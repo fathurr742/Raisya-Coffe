@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:raisya_coffe/payment.dart';
-import 'package:raisya_coffe/service.dart';
+import 'payment.dart';
+import 'service.dart';
 
 class CheckoutPage extends StatefulWidget {
   const CheckoutPage({super.key});
